@@ -91,4 +91,22 @@ Zoom in/out a panel
 Clipboard
 ---------
 
-TODO
+Enter navigation mode
+
+    (pref) [
+
+Set cursor mark
+
+    Ctrl + SPC
+
+Copy
+
+    Alt + w
+
+Exit navigation mode
+
+    (pref) ]
+
+Paste
+
+    (pref) ]
