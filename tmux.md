@@ -88,8 +88,8 @@ Zoom in/out a panel
 
     (pref) z
 
-Clipboard
----------
+Navigation & clipboard
+----------------------
 
 Enter navigation mode
 
@@ -103,9 +103,14 @@ Copy
 
     Alt + w
 
+Cancel selection:
+
+    Ctrl + c
+
 Exit navigation mode
 
     (pref) ]
+    Ctrl + c
 
 Paste
 
